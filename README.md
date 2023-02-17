@@ -16,7 +16,7 @@ _Después, se pueden ejecutar los archivos del repositorio llamando a la funció
 
 ## Funcionalidad ⚙️
 
-_El programa cuenta con 18 funciones que realizan las siguientes operaciones con vectores y matrices, ademas de un archivo de pruebas:_
+_El programa cuenta con 18 funciones que realizan las siguientes operaciones con vectores y matrices:_
 
 ## 1.Adición de vectores complejos.
 ## 2.Inverso (aditivo) de un vector complejos.
@@ -57,4 +57,4 @@ La función adición de numeros complejos: cuenta con dos parametros(a, b), una 
 
 ## Autores ✒️
 
-* **Jonathan Yesid Suarez Bernal** - *Trabajo y documentacion* 
+* **Jonathan Yesid Suarez Bernal** - *Trabajo y documentación* 
