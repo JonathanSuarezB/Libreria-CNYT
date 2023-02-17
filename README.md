@@ -37,7 +37,7 @@ _El programa cuenta con 18 funciones que realizan las siguientes operaciones con
 ## 17.Revisar si una matriz es Hermitiana
 ## 18.Producto tensor de dos matrices/vectores
  
-##Ejemplo:
+## Ejemplo:
 
     def suma(a, b):
     "Adición de vectores complejos"
