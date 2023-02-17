@@ -35,7 +35,7 @@ _El programa cuenta con 18 funciones que realizan las siguientes operaciones con
 ## 15.Valores  y vectores propios de una matriz
 ## 16.Revisar si una matriz es unitaria
 ## 17.Revisar si una matriz es Hermitiana
-## 18Producto tensor de dos matrices/vectores
+## 18.Producto tensor de dos matrices/vectores
  
 ##Ejemplo:
 
@@ -50,7 +50,7 @@ _El programa cuenta con 18 funciones que realizan las siguientes operaciones con
     return suma
 
 ```
-La función de adición de numeros complejos: cuenta con dos parametros (a, b), una descripción y una operación.
+La función adición de numeros complejos: cuenta con dos parametros(a, b), una descripción y una operación.
 ```
 
 ### Las pruebas se pueden encontrar en el archivo **pruebas** ⌨️
