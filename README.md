@@ -1,4 +1,4 @@
-# Libreria-CNYT
+# Libreria - CNYT
 Libreria de funciones para vectores y matrices.
 
 ### Instalación 🔧
